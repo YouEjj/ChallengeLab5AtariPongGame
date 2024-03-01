@@ -1,4 +1,4 @@
-# Scalable Pong Game
+# Atari Pong Game
 
 This is a **Atari Pong Game** created in Unity, inspired by the classic Atari game. The game allows two players to control paddles and bounce a ball back and forth, with the objective of scoring points by making the ball pass the opponent's paddle.
 
